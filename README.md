@@ -1,8 +1,8 @@
 
-🚗 Car Detection in Video Sequences using Gaussian Mixture Models (GMM)
+**Car Detection in Video Sequences using Gaussian Mixture Models (GMM)**
 This project demonstrates the use of Gaussian Mixture Models (GMM) for detecting moving vehicles in video sequences. The model leverages background subtraction techniques to identify foreground objects (cars), followed by noise removal and object tracking.
 
-🔍 Project Workflow
+**Project Workflow**
 Video Input & Initialization
 
 Load video sequences.
@@ -17,7 +17,7 @@ Apply morphological opening to reduce noise.
 
 Use blob analysis to detect and track car-like objects.
 
-Visualization & Output
+**Visualization & Output**
 
 Display bounding boxes around detected cars in each frame.
 
@@ -25,7 +25,8 @@ Count and display the number of cars detected per frame.
 
 Generate a processed video stream with overlays.
 
-🛠️ Techniques Used
+
+**Techniques Used**
 Gaussian Mixture Models (GMM) for background subtraction
 
 Morphological transformations (Opening)
