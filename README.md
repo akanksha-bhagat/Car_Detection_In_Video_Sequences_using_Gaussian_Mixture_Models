@@ -36,6 +36,7 @@ Bounding boxes are drawn around each detected car in the video frame.
 The system also counts the number of detected cars and overlays this information on the video.  
 The processed video is displayed in real time using a video player.
 
+
 ---
 
 ## Summary
@@ -65,8 +66,8 @@ This project demonstrates a classical computer vision approach for vehicle detec
 ---
 
 ## Example Output
+![image](https://github.com/user-attachments/assets/a5126b64-e10c-4561-8797-3c99fe7d7f5e)
 
-(Add an image here showing detected cars with bounding boxes.)
 
 ---
 
