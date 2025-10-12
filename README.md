@@ -1,3 +1,4 @@
+Author - Akanksha Bhagat
 # Car Detection in Video Sequences using Gaussian Mixture Models (GMM) - MATLAB
 
 This project implements car detection in video sequences using Gaussian Mixture Models (GMM) for background subtraction, morphological operations for noise removal, and blob analysis for object tracking.
